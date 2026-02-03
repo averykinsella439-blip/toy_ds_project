@@ -1,3 +1,3 @@
 # toy_ds_project 
-# project creation date : February 2nd, 2026. 
-# author : Avery Kinsella
+Project creation date : February 2nd, 2026. 
+Author : Avery Kinsella
